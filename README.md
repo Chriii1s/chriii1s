@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chris
+# 👋 Hi, I'm Chris.
 
 Developer from Germany.
 Working with JavaScript and Python, currently learning C++.
