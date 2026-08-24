@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Chris
 
-<!--
-**Chriii1s/chriii1s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer from Germany.
+Working with JavaScript and Python, currently learning C++.
+Interested in Unreal Engine, Minecraft, Discord development, and reverse engineering.
 
-Here are some ideas to get you started:
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=chriii1s&label=Profile%20views&color=0e75b6&style=flat" alt="Chris" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div align="center">
+    <img 
+        src="https://github-readme-stats.vercel.app/api?username=chriii1s&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=58A6FF&rank_icon=github&title_color=58A6FF" 
+        width="500px" 
+        alt="github stats"
+        style="border-radius: 10px; margin: 20px 0; box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);"
+    >
+</div>
